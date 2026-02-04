@@ -14,5 +14,8 @@ each state active for 1 second.
 - Red, Yellow, Green LEDs
 - Resistors
 
+## Circuit Diagram
+![Traffic Light Circuit](circuit_diagram.png)
+
 ## Note
 This is a basic implementation intended for learning purposes.
